@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="89.274132"
+   height="86.425064"
+   viewBox="0 0 89.274132 86.425064"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="cancelado.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4658385"
+     inkscape:cx="44.34322"
+     inkscape:cy="46.389831"
+     inkscape:window-width="1504"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <path
+     d="m 30.966572,10.932325 c 4.3029,-13.2431 23.0383,-13.2431 27.3412,0 2.1921,6.7465 8.4794,11.3142 15.5724,11.3142 13.925,0 19.714,17.8184 8.449,26.0031 -5.739,4.1696 -8.14,11.5603 -5.948,18.3068 4.303,13.243 -10.854,24.255 -22.1195,16.071 -5.739,-4.17 -13.51,-4.17 -19.249,0 -11.2652,8.184 -26.4223998,-2.828 -22.1195,-16.071 2.1921,-6.7465 -0.2093,-14.1372 -5.9481998,-18.3068 -11.2652,-8.1847 -5.4757,-26.0031 8.4488998,-26.0031 7.0937,0 13.3806,-4.5677 15.5727,-11.3142 z"
+     fill="url(#paint0_linear_590_766)"
+     stroke="#e3adad"
+     stroke-width="2"
+     id="path1"
+     style="fill:url(#paint0_linear_590_766)" />
+  <path
+     d="m 52.976772,43.282525 c 0.6636,-0.7551 0.6636,-1.8855 0,-2.6406 l -0.2473,-0.2814 c -0.7965,-0.9063 -2.2081,-0.9063 -3.0046,0 l -2.0854,2.3728 c -0.7965,0.9063 -2.2081,0.9063 -3.0046,0 l -2.0854,-2.3728 c -0.7965,-0.9063 -2.2081,-0.9063 -3.0046,0 l -0.2473,0.2814 c -0.6636,0.7551 -0.6636,1.8855 0,2.6406 l 2.7692,3.1508 c 0.6636,0.7551 0.6636,1.8855 0,2.6406 l -2.7692,3.1507 c -0.6636,0.7551 -0.6636,1.8856 0,2.6407 l 0.2473,0.2814 c 0.7965,0.9062 2.2081,0.9062 3.0046,0 l 2.0854,-2.3729 c 0.7965,-0.9062 2.2081,-0.9062 3.0046,0 l 2.0854,2.3729 c 0.7965,0.9062 2.2081,0.9062 3.0046,0 l 0.2473,-0.2814 c 0.6636,-0.7551 0.6636,-1.8856 0,-2.6407 l -2.7692,-3.1507 c -0.6636,-0.7551 -0.6636,-1.8855 0,-2.6406 z"
+     fill="#e5a0a0"
+     id="path2" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="paint0_linear_590_766"
+       x1="80.5"
+       y1="0"
+       x2="80.5"
+       y2="161"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-35.862828,-34.377575)">
+      <stop
+         stop-color="#FFD5D5"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#FFB5B5"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+</svg>
